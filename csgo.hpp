@@ -3,7 +3,7 @@
 
 // 2020-04-17 07:35:56.115034 UTC
 
-namespace nessdumper {
+namespace extremdumper {
 constexpr ::std::int64_t timestamp = 1587108956;
 namespace netvars {
 constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;

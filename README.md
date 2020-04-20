@@ -29,7 +29,7 @@ if( client_state ) {
 
 ## Bilgiler:
 
--Biz grup olarak çoğumuz okudumuz için yada çalıştımız için, bir güncelleme olup olmadığını 7/24 göremiyoruz ve sonra itiyoruz. Bunun mümkün olan en kısa sürede gerçekleşmesini sağlamak için her türlü çabayı gösteriyoruz.
+- Biz grup olarak çoğumuz okudumuz için yada çalıştımız için, bir güncelleme olup olmadığını 7/24 göremiyoruz ve sonra itiyoruz. Bunun mümkün olan en kısa sürede gerçekleşmesini sağlamak için her türlü çabayı gösteriyoruz.
 - 🔫 Havuz her zaman [buhar deposu] 'nun en son sürümünü ifade eder (http://store.steampowered.com/app/730/CounterStrike_Global_Offensive).
 - ⚠️ Yanlış kullanım durumunda VAC yasaklarından sorumlu değiliz.
 

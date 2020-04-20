@@ -2,7 +2,7 @@ using System;
 
 // 2020-04-17 07:35:56.115034 UTC
 
-namespace nessdumepr
+namespace extremdumper
 {
     public const Int32 timestamp = 1587108956;
     public static class netvars

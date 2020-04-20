@@ -1,4 +1,4 @@
-# ExtremDumper kimdir ??
+# ExtremDumper kimdir ?? 🚀
 İnfinityWare yazılım grubunun cs-go offsetleri depoladığı yerdir . bedava yazılımınızın offsetleri ve diğer yazılım grubunun offsetlerini kolayca bulabilmesi için hazırlanmıştır 
 Gaye amacımız bu sektördeki herkese yardım edebilmektir.
 

@@ -1,6 +1,6 @@
 ' 2020-04-17 07:35:56.115034 UTC
 
-Namespace nessdumper
+Namespace extremdumper
     Public Const timestamp as Integer = &H5E995C5C
     Public Shared Class netvars
         Public Const cs_gamerules_data as Integer = &H0

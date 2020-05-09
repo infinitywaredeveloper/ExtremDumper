@@ -152,4 +152,3 @@ constexpr ::std::ptrdiff_t set_abs_angles = 0x1CF0E0;
 constexpr ::std::ptrdiff_t set_abs_origin = 0x1CEF20;
 } // namespace signatures
 } // namespace extremdumper
-

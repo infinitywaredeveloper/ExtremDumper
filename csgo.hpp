@@ -1,7 +1,7 @@
 #pragma once
 #include <cstdint>
 
-// 2020-05-06 16:01:37.142562500 UTC
+// 2020-05-09 10:45:01.142562500 UTC
 
 namespace extremdumper {
 constexpr ::std::int64_t timestamp = 1588780897;
@@ -152,5 +152,3 @@ constexpr ::std::ptrdiff_t set_abs_angles = 0x1CF0E0;
 constexpr ::std::ptrdiff_t set_abs_origin = 0x1CEF20;
 } // namespace signatures
 } // namespace extremdumper
-
-

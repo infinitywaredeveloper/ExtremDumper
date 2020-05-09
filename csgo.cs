@@ -2,7 +2,7 @@ using System;
 
 // 2020-05-06 16:01:37.142562500 UTC
 
-namespace hazedumper
+namespace extremdumper
 {
     public const Int32 timestamp = 1588780897;
     public static class netvars

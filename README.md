@@ -35,7 +35,7 @@ if( client_state ) {
 
 
 ## Kredi:
-- İnfinityware Geliştirici yazılım grubudur [http://infinityware.tr.ht/wp/] Discord [https://discord.gg/UA8Fn4t]
+- İnfinityware Geliştirici yazılım grubudur [https://infinityware.tr.ht] Discord [https://discord.gg/UA8Fn4t]
 - Ozan Balci [https://github.com/ozanbalci]
 - Furkan Balamri [Yok]
 - MRX [https://github.com/BurakBalamir]

@@ -150,3 +150,4 @@ namespace extremdumper {
         public const Int32 set_abs_origin = 0x1D29A0;
     }
 } // namespace extremdumper
+

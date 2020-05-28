@@ -149,4 +149,4 @@ namespace extremdumper {
         public const Int32 set_abs_angles = 0x1D2B60;
         public const Int32 set_abs_origin = 0x1D29A0;
     }
-} // namespace blazedumper
+} // namespace extremdumper

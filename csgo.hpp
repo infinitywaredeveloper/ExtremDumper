@@ -1,10 +1,10 @@
 #pragma once
 #include <cstdint>
 
-// 12-06-2020 14:02:46
+// 2020-06-12 19:20:54.254402 UTC
 
 namespace extremdumper {
-constexpr ::std::int64_t timestamp = 15919308465824389
+constexpr ::std::int64_t timestamp = 1591989654;
 namespace netvars {
 constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
 constexpr ::std::ptrdiff_t m_ArmorValue = 0xB378;
@@ -40,8 +40,6 @@ constexpr ::std::ptrdiff_t m_clrRender = 0x70;
 constexpr ::std::ptrdiff_t m_dwBoneMatrix = 0x26A8;
 constexpr ::std::ptrdiff_t m_fAccuracyPenalty = 0x3330;
 constexpr ::std::ptrdiff_t m_fFlags = 0x104;
-constexpr ::std::ptrdiff_t m_fRoundStartTime = 0x4C;
-constexpr ::std::ptrdiff_t m_fWarmupPeriodEnd = 0x24;
 constexpr ::std::ptrdiff_t m_flC4Blow = 0x2990;
 constexpr ::std::ptrdiff_t m_flCustomAutoExposureMax = 0x9E0;
 constexpr ::std::ptrdiff_t m_flCustomAutoExposureMin = 0x9DC;
@@ -58,14 +56,12 @@ constexpr ::std::ptrdiff_t m_flNextPrimaryAttack = 0x3238;
 constexpr ::std::ptrdiff_t m_flSimulationTime = 0x268;
 constexpr ::std::ptrdiff_t m_flTimerLength = 0x2994;
 constexpr ::std::ptrdiff_t m_hActiveWeapon = 0x2EF8;
-constexpr ::std::ptrdiff_t m_hBombDefuser = 0x29B4;
 constexpr ::std::ptrdiff_t m_hMyWeapons = 0x2DF8;
 constexpr ::std::ptrdiff_t m_hObserverTarget = 0x338C;
 constexpr ::std::ptrdiff_t m_hOwner = 0x29CC;
 constexpr ::std::ptrdiff_t m_hOwnerEntity = 0x14C;
 constexpr ::std::ptrdiff_t m_iAccountID = 0x2FC8;
 constexpr ::std::ptrdiff_t m_iClip1 = 0x3264;
-constexpr ::std::ptrdiff_t m_iCompetitiveRankType = 0x1C8C;
 constexpr ::std::ptrdiff_t m_iCompetitiveRanking = 0x1A84;
 constexpr ::std::ptrdiff_t m_iCompetitiveWins = 0x1B88;
 constexpr ::std::ptrdiff_t m_iCrosshairId = 0xB3E4;
@@ -78,8 +74,6 @@ constexpr ::std::ptrdiff_t m_iItemDefinitionIndex = 0x2FAA;
 constexpr ::std::ptrdiff_t m_iItemIDHigh = 0x2FC0;
 constexpr ::std::ptrdiff_t m_iMostRecentModelBoneCounter = 0x2690;
 constexpr ::std::ptrdiff_t m_iObserverMode = 0x3378;
-constexpr ::std::ptrdiff_t m_iPrimaryReserveAmmoCount = 0x326C;
-constexpr ::std::ptrdiff_t m_iRoundTime = 0x44;
 constexpr ::std::ptrdiff_t m_iShotsFired = 0xA390;
 constexpr ::std::ptrdiff_t m_iState = 0x3258;
 constexpr ::std::ptrdiff_t m_iTeamNum = 0xF4;
@@ -88,7 +82,6 @@ constexpr ::std::ptrdiff_t m_nFallbackPaintKit = 0x31C8;
 constexpr ::std::ptrdiff_t m_nFallbackSeed = 0x31CC;
 constexpr ::std::ptrdiff_t m_nFallbackStatTrak = 0x31D4;
 constexpr ::std::ptrdiff_t m_nForceBone = 0x268C;
-constexpr ::std::ptrdiff_t m_nSurvivalTeam = 0xA3C0;
 constexpr ::std::ptrdiff_t m_nTickBase = 0x3430;
 constexpr ::std::ptrdiff_t m_rgflCoordinateFrame = 0x444;
 constexpr ::std::ptrdiff_t m_szCustomName = 0x303C;
@@ -141,16 +134,16 @@ constexpr ::std::ptrdiff_t dwSetClanTag = 0x89FB0;
 constexpr ::std::ptrdiff_t dwViewMatrix = 0x4D3DB14;
 constexpr ::std::ptrdiff_t dwWeaponTable = 0x519E240;
 constexpr ::std::ptrdiff_t dwWeaponTableIndex = 0x325C;
-constexpr ::std::ptrdiff_t dwYawPtr = 0x0;
+constexpr ::std::ptrdiff_t dwYawPtr = 0xD3D3F0;
 constexpr ::std::ptrdiff_t dwZoomSensitivityRatioPtr = 0xD42638;
 constexpr ::std::ptrdiff_t dwbSendPackets = 0xD409A;
 constexpr ::std::ptrdiff_t dwppDirect3DDevice9 = 0xA7030;
-constexpr ::std::ptrdiff_t find_hud_element = 0x62A001A0;
+constexpr ::std::ptrdiff_t find_hud_element = 0x2B3701A0;
 constexpr ::std::ptrdiff_t force_update_spectator_glow = 0x39DCD2;
 constexpr ::std::ptrdiff_t interface_engine_cvar = 0x3E9EC;
 constexpr ::std::ptrdiff_t is_c4_owner = 0x3AA780;
 constexpr ::std::ptrdiff_t m_bDormant = 0xED;
-constexpr ::std::ptrdiff_t m_flSpawnTime = 0x0;
+constexpr ::std::ptrdiff_t m_flSpawnTime = 0xA370;
 constexpr ::std::ptrdiff_t m_pStudioHdr = 0x294C;
 constexpr ::std::ptrdiff_t m_pitchClassPtr = 0x51811E0;
 constexpr ::std::ptrdiff_t m_yawClassPtr = 0xD3D3F0;

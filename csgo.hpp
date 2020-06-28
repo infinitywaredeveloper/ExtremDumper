@@ -1,10 +1,10 @@
 #pragma once
 #include <cstdint>
 
-// 2020-06-23 19:22:35.382109300 UTC
+// 2020-06-28 21:04:08.983622600 UTC
 
 namespace extremdumper {
-constexpr ::std::int64_t timestamp = 1592940155;
+constexpr ::std::int64_t timestamp = 1593378248;
 namespace netvars {
 constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
 constexpr ::std::ptrdiff_t m_ArmorValue = 0xB378;
@@ -138,7 +138,7 @@ constexpr ::std::ptrdiff_t dwYawPtr = 0xD403F0;
 constexpr ::std::ptrdiff_t dwZoomSensitivityRatioPtr = 0xD45638;
 constexpr ::std::ptrdiff_t dwbSendPackets = 0xD415A;
 constexpr ::std::ptrdiff_t dwppDirect3DDevice9 = 0xA7030;
-constexpr ::std::ptrdiff_t find_hud_element = 0x2B9E2460;
+constexpr ::std::ptrdiff_t find_hud_element = 0x31652460;
 constexpr ::std::ptrdiff_t force_update_spectator_glow = 0x3A1032;
 constexpr ::std::ptrdiff_t interface_engine_cvar = 0x3E9EC;
 constexpr ::std::ptrdiff_t is_c4_owner = 0x3ADAD0;

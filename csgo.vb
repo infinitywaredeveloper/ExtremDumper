@@ -1,7 +1,7 @@
-' 2020-06-23 19:22:35.382109300 UTC
+' 2020-06-28 21:04:08.983622600 UTC
 
 Namespace extremdumper
-    Public Const timestamp as Integer = &H5EF2567B
+    Public Const timestamp as Integer = &H5EF905C8
     Public Shared Class netvars
         Public Const cs_gamerules_data as Integer = &H0
         Public Const m_ArmorValue as Integer = &HB378
@@ -135,7 +135,7 @@ Namespace extremdumper
         Public Const dwZoomSensitivityRatioPtr as Integer = &HD45638
         Public Const dwbSendPackets as Integer = &HD415A
         Public Const dwppDirect3DDevice9 as Integer = &HA7030
-        Public Const find_hud_element as Integer = &H2B9E2460
+        Public Const find_hud_element as Integer = &H31652460
         Public Const force_update_spectator_glow as Integer = &H3A1032
         Public Const interface_engine_cvar as Integer = &H3E9EC
         Public Const is_c4_owner as Integer = &H3ADAD0

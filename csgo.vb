@@ -1,7 +1,7 @@
-' 2020-07-08 23:57:54.447973400 UTC
+' 2020-07-09 23:11:16.937690200 UTC
 
-Namespace extremdumper
-    Public Const timestamp as Integer = &H5F065D82
+Namespace hazedumper
+    Public Const timestamp as Integer = &H5F07A414
     Public Shared Class netvars
         Public Const cs_gamerules_data as Integer = &H0
         Public Const m_ArmorValue as Integer = &HB378
@@ -117,9 +117,9 @@ Namespace extremdumper
         Public Const dwGameRulesProxy as Integer = &H526F38C
         Public Const dwGetAllClasses as Integer = &HD641F4
         Public Const dwGlobalVars as Integer = &H58AAD8
-        Public Const dwGlowObjectManager as Integer = &H529A250
+        Public Const dwGlowObjectManager as Integer = &H529A248
         Public Const dwInput as Integer = &H51A39A8
-        Public Const dwInterfaceLinkList as Integer = &H906A64
+        Public Const dwInterfaceLinkList as Integer = &H906CA4
         Public Const dwLocalPlayer as Integer = &HD3DBEC
         Public Const dwMouseEnable as Integer = &HD43790
         Public Const dwMouseEnablePtr as Integer = &HD43760
@@ -135,7 +135,7 @@ Namespace extremdumper
         Public Const dwZoomSensitivityRatioPtr as Integer = &HD48638
         Public Const dwbSendPackets as Integer = &HD415A
         Public Const dwppDirect3DDevice9 as Integer = &HA7030
-        Public Const find_hud_element as Integer = &H2F5A3520
+        Public Const find_hud_element as Integer = &H2DF93520
         Public Const force_update_spectator_glow as Integer = &H3A20E2
         Public Const interface_engine_cvar as Integer = &H3E9EC
         Public Const is_c4_owner as Integer = &H3AEB80

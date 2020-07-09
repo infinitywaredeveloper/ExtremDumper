@@ -1,10 +1,10 @@
 #pragma once
 #include <cstdint>
 
-// 2020-07-08 23:57:54.447973400 UTC
+// 2020-07-09 23:11:16.937690200 UTC
 
-namespace extremdumper {
-constexpr ::std::int64_t timestamp = 1594252674;
+namespace hazedumper {
+constexpr ::std::int64_t timestamp = 1594336276;
 namespace netvars {
 constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
 constexpr ::std::ptrdiff_t m_ArmorValue = 0xB378;
@@ -120,9 +120,9 @@ constexpr ::std::ptrdiff_t dwGameDir = 0x6296F8;
 constexpr ::std::ptrdiff_t dwGameRulesProxy = 0x526F38C;
 constexpr ::std::ptrdiff_t dwGetAllClasses = 0xD641F4;
 constexpr ::std::ptrdiff_t dwGlobalVars = 0x58AAD8;
-constexpr ::std::ptrdiff_t dwGlowObjectManager = 0x529A250;
+constexpr ::std::ptrdiff_t dwGlowObjectManager = 0x529A248;
 constexpr ::std::ptrdiff_t dwInput = 0x51A39A8;
-constexpr ::std::ptrdiff_t dwInterfaceLinkList = 0x906A64;
+constexpr ::std::ptrdiff_t dwInterfaceLinkList = 0x906CA4;
 constexpr ::std::ptrdiff_t dwLocalPlayer = 0xD3DBEC;
 constexpr ::std::ptrdiff_t dwMouseEnable = 0xD43790;
 constexpr ::std::ptrdiff_t dwMouseEnablePtr = 0xD43760;
@@ -138,7 +138,7 @@ constexpr ::std::ptrdiff_t dwYawPtr = 0xD433F0;
 constexpr ::std::ptrdiff_t dwZoomSensitivityRatioPtr = 0xD48638;
 constexpr ::std::ptrdiff_t dwbSendPackets = 0xD415A;
 constexpr ::std::ptrdiff_t dwppDirect3DDevice9 = 0xA7030;
-constexpr ::std::ptrdiff_t find_hud_element = 0x2F5A3520;
+constexpr ::std::ptrdiff_t find_hud_element = 0x2DF93520;
 constexpr ::std::ptrdiff_t force_update_spectator_glow = 0x3A20E2;
 constexpr ::std::ptrdiff_t interface_engine_cvar = 0x3E9EC;
 constexpr ::std::ptrdiff_t is_c4_owner = 0x3AEB80;
@@ -151,4 +151,4 @@ constexpr ::std::ptrdiff_t model_ambient_min = 0x58DE4C;
 constexpr ::std::ptrdiff_t set_abs_angles = 0x1D62D0;
 constexpr ::std::ptrdiff_t set_abs_origin = 0x1D6110;
 } // namespace signatures
-} // namespace extremdumper
+} // namespace hazedumper

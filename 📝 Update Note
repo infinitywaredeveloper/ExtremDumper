@@ -1,0 +1,27 @@
+Release Notes for 7/23/2020
+2020.07.23 - 
+
+[ TRUSTED MODE ]
+– Trusted Mode is now the default launch mode for CS:GO.
+— Previous Trusted Mode launch options have been deprecated.
+— Instead, a new compatibility launch option “-allow_third_party_software” is provided to allow third party software to access the CS:GO game process.
+– For more information about Trusted Mode please refer to the following Knowledge Base article:
+https://support.steampowered.com/kb_article.php?ref=8835-KLXV-0292
+
+[ MAPS ]
+– Added Mutiny and Swamp to official matchmaking in Casual, Deathmatch, and Scrimmage game modes.
+– Chlorine and Jungle have been removed from official matchmaking.
+
+[ GAMEPLAY ]
+– Grenades now convey the correct amount of damage to teammates if thrown by another teammate who switched teams or disconnected.
+– Decoy grenade explosions no longer damage teammates by default. (controlled via convar ff_damage_decoy_explosion)
+
+[ MISC ]
+– Fixed bsp-embedded models caching rules to allow for reloading the correct model when transitioning to a different map.
+– Capped view model backfaces on Desert Eagle.
+– Fixed workshop workbench texture regeneration on low shader quality GPU configurations.
+– Minor adjustments to Danger Zone delivery drone behavior for Steam Workshop Danger Zone maps.
+
+[https://support.steampowered.com/kb_article.php?ref=8835-KLXV-0292]
+
+# "–untrusted"
